@@ -15,8 +15,8 @@ To get started, make sure you have Python installed on your system. These script
 1. **Clone the Repository:**
 
 ```bash
-git clone https://github.com/yourusername/ctf-challenge-tools.git
-cd ctf-challenge-tools
+git clone https://github.com/morganbritt19/Python-CTF-Scripts.git
+cd Python-CTF-Scripts/
 ```
 
 2. **Run the Scripts:**
