@@ -14,10 +14,10 @@ To get started, make sure you have Python installed on your system. These script
 
 1. **Clone the Repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/ctf-challenge-tools.git
-   cd ctf-challenge-tools
-   ```
+```bash
+git clone https://github.com/yourusername/ctf-challenge-tools.git
+cd ctf-challenge-tools
+```
 
 2. **Run the Scripts:**
 
