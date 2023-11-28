@@ -19,7 +19,13 @@ git clone https://github.com/morganbritt19/Python-CTF-Scripts.git
 cd Python-CTF-Scripts/
 ```
 
-2. **Run the Scripts:**
+2. **Install dependencies/libraries:**
+
+  ```python
+  pip install -r requirements.txt
+  ```
+
+3. **Run the Scripts:**
 
   ```python
   python3 script_name.py
