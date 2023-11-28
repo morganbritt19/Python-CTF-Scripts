@@ -1,6 +1,5 @@
 # This uses the PyJWT library to try and decode JSON Web Tokens
 # This was written because decoding it manually using something like CyberChef became frustrating, so I wanted a script that did it for me. 
-# Syntax: python 'JWT Token Decoder.py' <token>
 
 import jwt
 import sys
@@ -23,8 +22,9 @@ def decode_jwt(token):
         print(f"Error: {e}")
 
 if __name__ == "__main__":
+    # Prints syntax/usage instructions
     if len(sys.argv) != 2:
-        print("Usage: python jwt_decoder.py <jwt_token>")
+        print("Usage: python JWTDecoder.py <jwt_token>")
         sys.exit(1)
 
     jwt_token = sys.argv[1]
